@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="30" started-at="2021-09-28T05:55:52Z" finished-at="2021-09-28T05:55:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="30" started-at="2021-09-28T05:55:52Z" finished-at="2021-09-28T05:55:52Z">
+      <class name="com.prasenjit.selenium.BrowserLaunch">
+        <test-method status="PASS" signature="setExtent()[pri:0, instance:com.prasenjit.selenium.BrowserLaunch@ea4a92b]" name="setExtent" is-config="true" duration-ms="10" started-at="2021-09-28T11:25:52Z" finished-at="2021-09-28T11:25:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setExtent -->
+        <test-method status="PASS" signature="extendRepot1()[pri:0, instance:com.prasenjit.selenium.BrowserLaunch@ea4a92b]" name="extendRepot1" duration-ms="6" started-at="2021-09-28T11:25:52Z" finished-at="2021-09-28T11:25:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extendRepot1 -->
+        <test-method status="PASS" signature="extendRepot2()[pri:1, instance:com.prasenjit.selenium.BrowserLaunch@ea4a92b]" name="extendRepot2" duration-ms="1" started-at="2021-09-28T11:25:52Z" finished-at="2021-09-28T11:25:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extendRepot2 -->
+      </class> <!-- com.prasenjit.selenium.BrowserLaunch -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
